@@ -2,7 +2,7 @@
 
 # Hello I'm Eddie
 I am passionate about diving into diverse fields of technology, areas of interests include: Software
-Development, Cloud Engineering, Machine Learning and AI, DevOps, Cyber Security, and Business
+Development, Cloud Engineering, Machine Learning and AI, DevOps, CyberSecurity, and Business
 Analysis. While my background is rooted in full-stack web development, I am confident in my ability to
 quickly adapt and excel in any tech domain. My drive to learn and grow is fuelled by a lifetime of balancing
 the demands of running a family business, pursuing my education, and thriving in a full-time corporate role.
